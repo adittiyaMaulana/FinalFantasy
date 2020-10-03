@@ -1,0 +1,11 @@
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  .center {
+    position: relative;
+    align-content: center;
+    margin-top: 20%;
+    margin-bottom: 20%;
+  }  
